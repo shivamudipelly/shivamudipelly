@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 B.Tech CSE student at **Anurag University** (2022–2026) | **CGPA: 9.04**<br>- 💻 Passionate about **Frontend Development**, **AI/ML**, and **Cloud Computing**<br>- 🚀 I love building full-stack apps and experimenting with new frameworks & tools<br>- 🤖 Exploring **Machine Learning**, **NLP**, and **Deep Learning** concepts<br>- 🌐 I enjoy solving real-world problems using **React**, **Next.js**, **Node.js**, and **MongoDB**<br>- 🛠️ Currently diving deeper into **Spring Boot**, **Docker**, and **CI/CD**
+🎓 B.Tech CSE student at **Anurag University** (2022–2026) | **CGPA: 9.04**<br>💻 Passionate about **Frontend Development**, **AI/ML**, and **Cloud Computing**<br>🚀 I love building full-stack apps and experimenting with new frameworks & tools<br>🤖 Exploring **Machine Learning**, **NLP**, and **Deep Learning** concepts<br>🌐 I enjoy solving real-world problems using **React**, **Next.js**, **Node.js**, and **MongoDB**<br>🛠️ Currently diving deeper into **Spring Boot**, **Docker**, and **CI/CD**
 
 
 ## 🌐 Socials:
