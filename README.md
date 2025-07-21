@@ -15,7 +15,7 @@ I am a passionate **Full-Stack Developer** with a strong foundation in the MERN 
 
 ---
 
-### 💻 My Tech Stack
+###  💻 My Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js, Redux, TailwindCSS
 * **Backend:** Node.js, Express.js, Java, Spring Boot, Python, FastAPI
@@ -34,7 +34,7 @@ I am a passionate **Full-Stack Developer** with a strong foundation in the MERN 
 
 ---
 
-###📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivamudipelly&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
