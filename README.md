@@ -28,9 +28,9 @@
 
 > **"Code is like humor. When you have to explain it, it’s bad."**
 
-🎓 **Final-Year Student** at **Anurag University** (2026 Batch)
-🚀 **Specialization:** Computer Science & Engineering
-💡 **Interests:** Full Stack Development (MERN/Spring Boot), System Design, and Competitive Programming.
+🎓 **Final-Year Student** at **Anurag University** (2026 Batch) <br>
+🚀 **Specialization:** Computer Science & Engineering </br>
+💡 **Interests:** Full Stack Development (MERN/Spring Boot), System Design, and Competitive Programming. </br>
 
 ---
 
@@ -38,8 +38,7 @@
 
 | Company | Role | Status |
 | :--- | :--- | :--- |
-| 🏢 **Virtusa** | **Incoming Software Engineer** | 📜 **Offer Received** |
-| 💻 **LTIMindtree** | **Software Developer** | ⏳ **In Selection Process** |
+| 🏢 **Virtusa** | **Incoming Software Engineer** | 📜 **Offer Accepted** |
 | 🌐 **Open to Work** | **Full Stack / Backend** | 💼 **Available for Internships** |
 
 ---
