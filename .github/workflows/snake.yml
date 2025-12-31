@@ -6,6 +6,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# 🟢 THIS SECTION FIXES THE 403 PERMISSION ERROR
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +21,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: shivamudipelly
-          # We removed the '?palette=' part to fix the "split" error
+          # Keeping this simple to prevent the 'split' error
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
