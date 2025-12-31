@@ -36,33 +36,41 @@
 
 ## ✨ Career Status & Offers
 
-*Instead of past experience, here are the organizations that have selected me:*
-
 | Company | Role | Status |
 | :--- | :--- | :--- |
-| <img src="https://logo.clearbit.com/virtusa.com" width="20"/> **Virtusa** | **Incoming Software Engineer** | 📜 **Offer Received** |
-| <img src="https://logo.clearbit.com/ltimindtree.com" width="20"/> **LTIMindtree** | **Software Developer** | ⏳ **In Selection Process** |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1200px-Google_%22G%22_logo.svg.png" width="20"/> **Open to Work** | **Full Stack / Backend** | 💼 **Available for Internships** |
+| 🏢 **Virtusa** | **Incoming Software Engineer** | 📜 **Offer Received** |
+| 💻 **LTIMindtree** | **Software Developer** | ⏳ **In Selection Process** |
+| 🌐 **Open to Work** | **Full Stack / Backend** | 💼 **Available for Internships** |
 
 ---
 
 ## 🛠 Tech Stack
 
+<!-- Fixed: Organized into logical groups for better readability -->
+**Languages & Core**
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
+
+**Frontend & UI**
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+**Backend & Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ---
@@ -70,16 +78,14 @@
 ## 💻 Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/shivamudipelly/">
-    <img src="https://img.shields.io/badge/LeetCode-350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/mudipellyshiva/">
+    <img src="https://img.shields.io/badge/LeetCode-220+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/shivamudipelly">
     <img src="https://img.shields.io/badge/CodeChef-230+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  
   <br/> <br/>
-  
-  <img src="https://leetcard.jacoblin.cool/shivamudipelly?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
+  <img src="https://leetcard.jacoblin.cool/mudipellyshiva?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="85%" />
 </div>
 
 ---
@@ -109,8 +115,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamudipelly&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamudipelly&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <!-- Fixed: Removed problematic 'hide_border' parameter -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamudipelly&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivamudipelly&theme=tokyonight&hide_border=true" />
+  <br/>
+  <!-- Fixed: Simplified URL for Top Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamudipelly&theme=tokyonight" />
 </div>
 
 ---
@@ -125,6 +136,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamudipelly&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <br/>
-  <sub><i>Last Updated: 2025</i></sub>
 </div>
