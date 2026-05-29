@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mudipelly%20Shiva&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mudipelly%20Shiva&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Solving+LeetCode+Problems;Learning+Cloud+Native+Tech;Incoming+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Solving+LeetCode+Problems;Learning+Cloud+and+AI;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <p>
@@ -26,26 +26,18 @@
 
 ## 👨‍💻 About Me
 
-> **"Code is like humor. When you have to explain it, it’s bad."**
+Hi, I'm **Mudipelly Shiva** 👋 
+I'm a Full-Stack Engineer building scalable, secure web applications with a strong foundation in Data Structures and Algorithms.
 
-🎓 **Final-Year Student** at **Anurag University** (2026 Batch) <br>
-🚀 **Specialization:** Computer Science & Engineering </br>
-💡 **Interests:** Full Stack Development (MERN/Spring Boot), System Design, and Competitive Programming. </br>
-
----
-
-## ✨ Career Status & Offers
-
-| Company | Role | Status |
-| :--- | :--- | :--- |
-| 🏢 **Virtusa** | **Incoming Software Engineer** | 📜 **Offer Accepted** |
-| 🌐 **Open to Work** | **Full Stack / Backend** | 💼 **Available for Internships** |
+🎓 **Education:** B.Tech in Computer Science & Engineering, Anurag University (Class of 2026) | **CGPA: 8.99** <br>
+🏆 **Achievements:** Top 5 Finalist (Web Development) - Techxeclerate Hackathon <br>
+🚀 **Specialization:** MERN Stack, Spring Boot Microservices, and System Design. <br>
+🌱 **Currently Learning:** Generative AI, RAG (Retrieval-Augmented Generation), and Cloud Architectures. <br>
 
 ---
 
 ## 🛠 Tech Stack
 
-<!-- Fixed: Organized into logical groups for better readability -->
 **Languages & Core**
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -98,37 +90,42 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Experience
 
-### 🚌 **BusTracker** (Real-Time Tracking)
-> *IoT-based vehicle tracking system using GPS modules and React.*
-- **Tech:** React.js, Node.js, Leaflet Maps, Firebase
-- **Role:** Full Stack Developer
-- 🔗 [**View Repository**](https://github.com/shivamudipelly/bustracker)
+### 💼 **MedShop** (Freelance)
+> *Online pharmacy platform streamlining prescription uploads and medicine delivery.*
+- **Role:** Freelance Full-Stack Developer
+- **Tech:** React.js, Node.js, Electron, SQL
+- **Highlights:** Built secure order management flow to process customer prescriptions efficiently.
+- 🔗 [**View Repository**](https://github.com/shivamudipelly/medshop)
 
 ### 🛍️ **E-Commerce Platform**
-> *Scalable shopping application with payment gateway integration.*
-- **Tech:** Java, Spring Boot, MySQL, React
-- **Features:** Secure Auth, Cart Management, Order History
+> *Enterprise-grade shopping application built for scalability.*
+- **Tech:** Java, Spring Boot, React, MySQL
+- **Highlights:** Integrated secure auth, cart management, and order history.
 - 🔗 [**View Repository**](https://github.com/shivamudipelly/ecommerce)
 
 ### 🔐 **DNA Auth Framework**
 > *Advanced security system using DNA cryptography sequences.*
 - **Tech:** Python, Cryptography Algorithms
-- **Focus:** Preventing replay attacks in IoT devices.
+- **Impact:** Focused on preventing replay attacks and enforcing strict identity verification for secure systems.
 - 🔗 [**View Repository**](https://github.com/shivamudipelly/dna-auth-framework)
+
+### 🚌 **BusTracker** (Real-Time Bus Tracking System)
+> *Live vehicle tracking system processing real-time mobile GPS data.*
+- **Tech:** React.js, Node.js, Leaflet Maps, Firebase
+- **Status:** Backend configured for real-time data handling.
+- 🔗 [**View Repository**](https://github.com/shivamudipelly/bustracker)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Fixed: Removed problematic 'hide_border' parameter -->
   <img src="https://github-readme-stats.vercel.app/api?username=shivamudipelly&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=shivamudipelly&theme=tokyonight&hide_border=true" />
   <br/>
-  <!-- Fixed: Simplified URL for Top Languages card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamudipelly&theme=tokyonight" />
 </div>
 
@@ -138,10 +135,4 @@
 
 <div align="center">
   <img src="https://github.com/shivamudipelly/shivamudipelly/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamudipelly&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
